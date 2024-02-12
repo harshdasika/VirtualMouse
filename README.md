@@ -9,8 +9,7 @@ This project is designed to create a virtual AI mouse that recognizes/interprets
 1. Clone the repository to local machine
 2. Make sure all required libraries are installed (OpenCV, mediapipe, numpy, etc.)
 3. Open project in any Python IDE; make sure Python 3.8 is the selected interpreter
-4. Run HandTracker.py
-5. Run VirtualMouse.py
+4. Run VirtualMouse.py
 
 ## File Descriptions
 
