@@ -1,4 +1,4 @@
-# AI VIrtual Mouse
+# AI Virtual Mouse
 
 ## About
 
